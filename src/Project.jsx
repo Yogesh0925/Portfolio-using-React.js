@@ -4,7 +4,7 @@ import netflixlogo from '../src/assets/object.jpg';
 import ProjectContainer from './common/ProjectContainer';
 import forestfiree from './assets/stock.jpg'
 import Covid19 from './assets/heart.jpg';
-import house from './assets/shoe.jpg';
+import house from './assets/watch.jpg';
 function Project() {
   return (
     <section>
