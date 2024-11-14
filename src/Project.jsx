@@ -17,7 +17,7 @@ function Project() {
       h3="Stock market anomalies" p="Data science"/> </div>
       <div className='ProjectContainer'><ProjectContainer link="https://github.com/Yogesh0925/Heart-disease-prediction" src={ Covid19}  
       h3="Heart disease prediction" p="Machine Learning"/>  </div>  
-      <div className='ProjectContainer'><ProjectContainer link="https://github.com/Yogesh0925/Landing-Page" src={house}  
+      <div className='ProjectContainer'><ProjectContainer link="https://github.com/Yogesh0925/porsche-watch-landing-page" src={house}  
       h3="landing page" p="web development"/>  </div> 
 </div>
 </section>
