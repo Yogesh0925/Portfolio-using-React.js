@@ -9,7 +9,7 @@ import githubdark from '../src/assets/github-dark.svg'
 import linkedindark from '../src/assets/linkedin-dark.svg'
 import githublight from '../src/assets/github-light.svg'
 import linkedinlight from '../src/assets/linkedin-light.svg'
-import CV from '../src/assets/Resume.pdf'
+import CV from '../src/assets/Resume-Yogesh.pdf'
 import { useTheme } from './common/themecontext';
 function Hero() {
     const {theme,toggleTheme}=useTheme();
